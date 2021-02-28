@@ -1,0 +1,3 @@
+﻿  code.cpp
+C:\Users\John Smith\Documents\GitHub\Computer-science_work_PROG\code\code\code.cpp(32,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  code.vcxproj -> C:\Users\John Smith\Documents\GitHub\Computer-science_work_PROG\code\code\Debug\code.exe
